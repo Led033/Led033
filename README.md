@@ -1,4 +1,4 @@
-### Hi Im Lauren!
+# Hi Im Lauren!
 
 
 ## 🔭 I’m currently working on getting my undergraduate degree in Aerospcae Engineering from Iowa State University!
